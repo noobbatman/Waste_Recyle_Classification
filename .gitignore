@@ -1,0 +1,12 @@
+# Ignore datasets and model files
+Garbage classification/
+*.keras
+*.h5
+*.zip
+*.tar
+*.tar.gz
+
+# Ignore temporary / system files
+__pycache__/
+*.DS_Store
+*.ipynb_checkpoints/
